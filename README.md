@@ -4,7 +4,7 @@ This repository contains multiple Power BI projects with dashboards and reports.
 
 ## 📊 Projects  
 
-### 1.[American Express credit card Dashboard](Credit Card Weekly Report-Project/)  
+### 1.[American Express credit card Dashboard](Credit Card Weekly Report/)  
 ## 📌 Project Overview
  Credit Card Weekly Report
 This repository contains a Power BI dashboard for analyzing weekly credit card transactions, focusing on revenue, interest rates, and profit trends. The dashboard consists of three reports, providing in-depth insights into credit card performance and usage patterns.
