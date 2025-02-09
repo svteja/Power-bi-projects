@@ -10,10 +10,14 @@ This repository contains multiple Power BI projects with dashboards and reports.
 This repository contains a Power BI dashboard for analyzing weekly credit card transactions, focusing on revenue, interest rates, and profit trends. The dashboard consists of three reports, providing in-depth insights into credit card performance and usage patterns.
 
 ### Repository Structure
-📂 PBIX File/ – The main Power BI file (credit_card_project.pbix).
-📂 Screenshots/ – Key visuals and insights from the reports.
-📂 Documentation/ – Project overview, methodology, and report explanations.
-📜 README.md – Guide on using the Power BI dashboard.
+   📂 PBIX File/ – 
+   The main Power BI file (credit_card_project.pbix).
+   📂 Screenshots/ –
+   Key visuals and insights from the reports.
+   📂 Documentation/ –
+   Project overview, methodology, and report explanations.
+   📜 README.md –
+   Guide on using the Power BI dashboard.
 
 ### Reports Included
 Revenue Analysis – Tracks weekly revenue trends.
