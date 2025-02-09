@@ -6,17 +6,17 @@ This repository contains multiple Power BI projects with dashboards and reports.
 
 ### 1.[American Express credit card Dashboard](CreditCardWeeklyReport/) 
 ## 📌 Project Overview
- Credit Card Weekly Report
-This repository contains a Power BI dashboard for analyzing weekly credit card transactions, focusing on revenue, interest rates, and profit trends. The dashboard consists of three reports, providing in-depth insights into credit card performance and usage patterns.
+ ### Credit Card Weekly Report
+This repository contains a Power BI dashboard for analyzing weekly credit card transactions, focusing on revenue, interest rates, and profit trends. The dashboard consists of three reports, providing in-depth insights into credit card performance and usage patterns.Connected through postgre Sql for auto updation of power bi dashboards when next week data id uploaded
 
 ### Repository Structure
-   📂 PBIX File/ – 
+   ### 📂 PBIX File/ – 
    The main Power BI file (credit_card_project.pbix).
-   📂 Screenshots/ –
+   ### 📂 Screenshots/ –
    Key visuals and insights from the reports.
-   📂 Documentation/ –
+   ### 📂 Documentation/ –
    Project overview, methodology, and report explanations.
-   📜 README.md –
+   ### 📜 README.md –
    Guide on using the Power BI dashboard.
 
 ### Reports Included
