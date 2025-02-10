@@ -14,10 +14,9 @@ This repository contains a Power BI dashboard for analyzing weekly credit card t
    The main Power BI file (credit_card_project.pbix).
    ### 📂 Screenshots/ –
    Key visuals and insights from the reports.
-   ### 📂 Documentation/ –
-   Project overview, methodology, and report explanations.
-   ### 📜 README.md –
-   Guide on using the Power BI dashboard.
+   ### 📂 Data sets/ –
+   which data sets used for the project
+
 
 ## Reports Included
 ### Revenue Analysis –
