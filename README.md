@@ -59,4 +59,4 @@ Assists in identifying trends that can improve credit card performance.
 
 Provides a real-time overview of credit card financial health.
 Helps track KPIs like revenue growth, interest earnings, and net profit.
-This Power BI dashboard is a valuable tool for financial analysis, repo
+This Power BI dashboard is a valuable tool for financial analysis.
