@@ -1,6 +1,8 @@
 # Power BI Projects 
-This repository contains multiple Power BI projects with dashboards and reports. Click on a project title to explore its files.  
-![Screenshot 2025-02-25 115125](https://github.com/user-attachments/assets/238ddec2-67cf-4d12-9dbc-63bbccad4a37)
+This repository contains multiple Power BI projects with dashboards and reports. Click on a project title to explore its files. 
+
+![Screenshot 2025-02-26 115621](https://github.com/user-attachments/assets/32324a48-8f0c-46bb-9107-6d773983e011)
+
 
 ## Repository Structure
    ### 📂 PBIX File/ – 
